@@ -14,3 +14,4 @@ Forever free. Written in Python.
 
 
 ![Instabot is better than other open-source bots!](https://github.com/instagrambot/docs/blob/master/img/instabot_3_bots.png "Instabot is better than other open-source bots!")
+# instabot
